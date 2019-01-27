@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f36853d-3ce8-428f-b313-a7603a872ee0" name="Default Changelist" comment="" />
+    <list default="true" id="8f36853d-3ce8-428f-b313-a7603a872ee0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/resources/js/components/App.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="n#template#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#template#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
@@ -130,6 +133,9 @@
       <find>currentQuestion</find>
       <find>scoreB</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -247,6 +253,7 @@
     <option name="width" value="1398" />
     <option name="height" value="1020" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -346,18 +353,17 @@
       <workItem from="1547910775013" duration="7311000" />
       <workItem from="1547978573591" duration="14357000" />
       <workItem from="1548582191307" duration="13784000" />
-      <workItem from="1548601686868" duration="11318000" />
+      <workItem from="1548601686868" duration="11809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46770000" />
+    <option name="totallyTimeSpent" value="47261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4955414" visible="true" weight="0.12437811" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4955414" visible="true" weight="0.12437811" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.5044586" side_tool="true" weight="0.25815368" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -369,10 +375,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32979852" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.15767196" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36267233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -481,7 +487,7 @@
     <entry file="file://$PROJECT_DIR$/resources/js/components/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="n#template#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
             <element signature="n#template#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
