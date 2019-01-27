@@ -1,0 +1,60 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+// Site CSS
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .5s
+}
+.fade-enter, .fade-leave-to {
+    opacity: 0
+}
+.question {
+    width: 100% !important;
+    margin-top: 50px;
+}
+
+.answers {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+    line-height: 100px;
+    text-align: center;
+}
+
+input[type=radio] {
+    display:none;
+    margin:10px;
+}
+
+input[type=radio] + label {
+    display:inline-block;
+    margin:-2px;
+    width:100%;
+    padding:10px;
+    border:1px solid #ddd;
+    margin-bottom:10px;
+    cursor:pointer;
+}
+input[type=radio] + label:hover{ border:1px solid #000000;}
+input[type=radio]:checked + label {
+    background-image: none;
+    background-color:#0C0;
+    color:#fff;
+    border:1px solid #0C0 !important;
+}
+.rightans{ background-color:#0C0; color:#fff; border:1px solid #0C0}
+.wrongans{ background-color:#F36;color:#fff; border:1px solid #F36}
